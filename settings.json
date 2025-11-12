@@ -21,6 +21,32 @@
   "theme": {
     "mode": "dark",
     "light": "One Light",
-    "dark": "Darcula Dark"
+    "dark": "Dark Pop UI"
+  },
+  "theme_overrides": {
+    "Dark Pop UI": {
+      "syntax": {
+        "comment": {
+          "color": "#E5D3B3",
+          "font_style": "normal"
+        },
+        "comment.doc": {
+          "color": "#E5D3B3",
+          "font_style": "normal"
+        },
+        "punctuation.bracket": {
+          "color": "#CCCCCCFF"
+        },
+        "punctuation.delmiter": {
+          "color": "#CCCCCCFF"
+        },
+        "punctuation.list_marker": {
+          "color": "#CCCCCCFF"
+        },
+        "punctuation.special": {
+          "color": "#CCCCCCFF"
+        }
+      }
+    }
   }
 }
